@@ -27,3 +27,37 @@ body{
     background-color: black;
     color: white;
 }
+
+.knight {
+    background-image: url('horse.png');
+    background-size: cover;
+  }
+
+.selector-x-start{
+    position: absolute;
+    top: 5%;
+    left: 30%;
+}
+.selector-y-start{
+    position: absolute;
+    top: 5%;
+    left: 50%;
+}
+
+
+.selector-x-stop{
+    position: absolute;
+    top: 9%;
+    left: 30%;
+}
+
+.selector-y-stop{
+    position: absolute;
+    top: 9%;
+    left: 50%;
+}
+
+.button{
+    position: absolute;
+    top: 14%;
+}
